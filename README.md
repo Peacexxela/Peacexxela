@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Peacexxela
-- 👀 I’m interested in a Software Developer
+- 👋 Hi, I’m Peacexxela
+- 👀 I’m interested in being a Tech specialist and an elite Software Developer
 - 🌱 I’m currently learning C/python
 - 📫 peaceowem233@gmail.com
 
